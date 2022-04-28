@@ -6,7 +6,7 @@
         fetch="https://github.com/ugly-saifu" />
         
         <remove-project name="hardware/qcom-caf/msm8996/display" />
-        project path="hardware/qcom-caf/msm8996/display" name="display" remote="profile" revision="main"/>
+        <project path="hardware/qcom-caf/msm8996/display" name="display" remote="profile" revision="main"/>
 
         <!-- Sync trees -->
         <project path="device/asus/X01AD" name="Device-asus-X01AD" remote="profile" revision="lineage-19.0-back" />
