@@ -9,6 +9,9 @@
         <remove-project name="hardware_qcom_display" />
 
         <!-- Add Hals -->
+        <remote name="PE"
+          fetch="https://github.com/PixelExperience" />
+        
         <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom-caf_msm8996_display" remote="PE" revision="twelve-LA.UM.9.6.2.r1-04100-89xx.0" />
         
         <!-- Sync trees -->
