@@ -5,7 +5,7 @@
         <remote name="profile"
         fetch="https://github.com/ugly-saifu" />
         
-        <remove-project name="platform_hardware_qcom-caf_msm8996_display" />
+        <remove-project name="platform_hardware_qcom_display/msm8996" />
         
         <project path="hardware/qcom-caf/msm8996/display" name="display" remote="vesh" revision="main" />
         <remote name="vesh"
