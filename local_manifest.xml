@@ -10,4 +10,10 @@
         <project path="vendor/asus/X01AD" name="vendor_asus_X01AD" remote="profile" revision="R-latest" />
         <project path="kernel/asus/X01AD" name="kernel_asus_X01AD-2" remote="profile" revision="lineage-19.0" />
         
+        <!--Remove Project -->
+        <remove-project name="bionic" />
+        
+        <!--Add Project -->
+        <project path="bionic" name="bionic" remote="profile" revision="12.1"/>
+        
 </manifest>
