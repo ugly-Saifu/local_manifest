@@ -6,7 +6,7 @@
         fetch="https://github.com/ugly-saifu" />
         
         <!-- Sync trees -->
-        <project path="device/asus/X01AD" name="android_device_asus_X01AD" remote="profile" revision="EXS" />
+        <project path="device/asus/X01AD" name="device_asus_X01AD" remote="profile" revision="lineage-19.0-back" />
         <project path="vendor/asus/X01AD" name="vendor_asus_X01AD" remote="profile" revision="R-latest" />
         <project path="kernel/asus/X01AD" name="kernel_asus_X01AD-2" remote="profile" revision="lineage-19.0" />
         
